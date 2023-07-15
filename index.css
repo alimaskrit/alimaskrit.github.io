@@ -14,10 +14,10 @@
 
 .header{
     width:100%;
+    color: white;
     padding: 20px;
     background: #071853;
-    color: white;
-   box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 .menu-item{
@@ -79,10 +79,10 @@
 }
 
 .card-button{
-    text-align: center;
     background: #071853;
-    border-radius: 15px;
     padding: 10px 70px;
+    text-align: center;
+    border-radius: 15px;
 }
 
 .card-title, .card-text{
